@@ -1,0 +1,11 @@
+.bg-body-tertiary {
+    background-color: #1aa659 !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.form-control:focus {
+    border-color: #d52933;
+}
